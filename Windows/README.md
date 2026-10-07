@@ -27,8 +27,6 @@ Write-ups for retired HTB Windows boxes, mostly Active Directory environments, s
 | [Monteverde](Medium/Monteverde.md) | `rpcclient` enum, password spray, Azure AD Connect credential decryption |
 | [Resolute](Medium/Resolute.md) | LDAP description field leak, PowerShell transcript credential leak, DnsAdmins DLL abuse |
 | [Scrambled](Medium/Scrambled.md) | Kerberoasting over Kerberos auth, silver ticket forging, reverse-engineered secret decryption |
-| [StreamIO](Medium/StreamIO.md) | SQL injection foothold *(write-up incomplete in source notes)* |
-| [Visual](Medium/Visual.md) | *(write-up incomplete in source notes)* |
 
 ## Hard
 
